@@ -1,16 +1,125 @@
-# React + Vite
+# 📱 PopX Web App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A pixel-perfect mobile-style web application built using **ReactJS** and **Tailwind CSS**, based on the provided Adobe XD design.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo
 
-## React Compiler
+👉 https://anas313131.github.io/CryptoApp/
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* ⚛️ ReactJS (Vite)
+* 🎨 Tailwind CSS
+* 🔀 React Router DOM
+* ☁️ Vercel (Deployment)
+
+---
+
+## ✨ Features
+
+* 📱 Mobile UI centered inside a web page
+* 🎯 Pixel-perfect design implementation
+* 🔄 Smooth navigation between pages
+* ♻️ Reusable components (Input fields, buttons)
+* ⚡ Fast performance using Vite
+
+---
+
+## 📂 Project Structure
+
+```
+src/
+ ├── components/
+ │    ├── InputField.jsx
+ │    ├── Button.jsx
+ │
+ ├── pages/
+ │    ├── Welcome.jsx
+ │    ├── Login.jsx
+ │    ├── Register.jsx
+ │    ├── Profile.jsx
+ │
+ ├── App.jsx
+ ├── AppLayout.jsx
+ ├── main.jsx
+```
+
+---
+
+## 📸 Screens Implemented
+
+* ✅ Welcome Screen
+* ✅ Login Screen
+* ✅ Register Screen
+* ✅ Profile Screen
+
+---
+
+## 📦 Installation & Setup
+
+Clone the repository:
+
+```
+git clone https://github.com/your-username/popx-app.git
+cd popx-app
+```
+
+Install dependencies:
+
+```
+npm install
+```
+
+Run the development server:
+
+```
+npm run dev
+```
+
+---
+
+## 📱 Mobile UI Approach
+
+The application simulates a mobile interface using a fixed-width container:
+
+* Width: `375px`
+* Centered using Flexbox
+* Styled with rounded corners and shadow for realistic mobile feel
+
+---
+
+## ☁️ Deployment
+
+The project is deployed using **Vercel**:
+
+1. Push code to GitHub
+2. Import repository into Vercel
+3. Click Deploy
+
+---
+
+## 🎯 Key Highlights
+
+* Clean and well-structured code
+* Reusable components for scalability
+* Responsive and user-friendly design
+* Matches Adobe XD design closely
+
+---
+
+## 🙌 Author
+
+* **Anas Azam**
+
+---
+
+## 📌 Notes
+
+* This project was created as part of a frontend assignment
+* Focus was on UI accuracy and clean code practices
+
+---
