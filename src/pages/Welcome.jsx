@@ -32,8 +32,8 @@ function Welcome() {
     </h1>
 
     <p className="text-[#6F6F6F] text-[18px] leading-relaxed mb-6">
-      Lorem ipsum dolor sit amet,<br />
-      consectetur adipiscing elit,
+     Welcome to Forexapp,<br />
+      World first AI-powered platform,<br/>
     </p>
 
     <Button text="Create Account" onClick={() => navigate("/signup")} />

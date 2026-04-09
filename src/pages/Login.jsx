@@ -15,8 +15,8 @@ function Login() {
         </h1>
 
         <p className="text-[#6F6F6F] text-[18px] leading-normal mb-5">
-          Lorem ipsum dolor sit amet, <br />
-          consectetur adipiscing elit,
+          Join us with with amazing journey, <br />
+          Next make your dreams come true,<br/>
         </p>
 
         <InputField label="Email Address" placeholder="Enter email address" />

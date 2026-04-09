@@ -27,17 +27,17 @@ function Account() {
 
           <div>
             <h3 className="text-[22px] font-semibold text-[#1D232F]">
-              Marry Doe
+              Harry Smith
             </h3>
             <p className="text-[16px] text-[#1D232F] mt-1">
-              Marry@Gmail.Com
+              HarrySmith@gmail.com
             </p>
           </div>
         </div>
 
         <p className="mt-8 text-[18px] leading-[1.65] text-[#1D232F]">
-          Lorem Ipsum Dolor Sit Amet, Consetetur Sadipscing Elitr, Sed Diam
-          Nonumy Eirmod Tempor Invidunt Ut Labore Et Dolore Magna Aliquyam Erat,
+          This platform is designed to help you achieve your financial goals.
+          You can explore varoius features and tools to enhance your trading experience. Whether you,
           Sed Diam
         </p>
       </div>
