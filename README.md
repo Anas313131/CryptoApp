@@ -3,6 +3,8 @@
 A pixel-perfect mobile-style web application built using **ReactJS** and **Tailwind CSS**, based on the provided Adobe XD design.
 
 ---
+<img width="710" height="821" alt="image" src="https://github.com/user-attachments/assets/8790cfbc-c403-4ff0-80c2-fbe54f49b6cd" />
+
 
 ## 🚀 Live Demo
 
